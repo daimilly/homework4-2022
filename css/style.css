@@ -1,4 +1,5 @@
 body {
+    width: 100%;
     font-family: "Poppins", serif;
     background-image: url(../images/concrete_seamless.png);
     background-color: #f1f1f1;
@@ -114,6 +115,10 @@ body header img {
     }
 
     /* PROBLEM */
+    nav {
+        width: 100%;
+    }
+
     .nav_links {
         display: flex;
         flex-direction: row;
