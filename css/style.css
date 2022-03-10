@@ -28,7 +28,6 @@ header {
     border-top-left-radius: 50px;
 }
 
-/* PROBLEM */
 .card {
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
@@ -84,7 +83,6 @@ body header img {
         align-items: flex-end;
     }
 
-    /* PROBLEM */
     .card {
         border-top-right-radius: 50px;
         border-top-left-radius: 50px;
@@ -123,7 +121,6 @@ body header img {
         justify-content: space-around;
     }
 
-     /* PROBLEM */
     .card {
         border-top-right-radius: 50px;
         border-top-left-radius: 50px;
